@@ -20,7 +20,7 @@
 # SOFTWARE.
 #
 
-FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:21-jdk
+FROM        --platform=$TARGETOS/$TARGETARCH container-registry.oracle.com/graalvm/jdk:21
 
 LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
 
