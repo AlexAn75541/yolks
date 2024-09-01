@@ -22,9 +22,9 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH container-registry.oracle.com/graalvm/jdk:21
 
-LABEL       author="Aretzera" maintainer="agroup168@gmail.com"
+LABEL       author="alexan75541" maintainer="agroup168@gmail.com"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/alexan75541/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
 
 RUN 				apt-get update -y \
