@@ -48,29 +48,29 @@ is tagged correctly.
     * `ghcr.io/pterodactyl/yolks:go_1.17`
 * [`java`](https://github.com/pterodactyl/yolks/tree/master/java)
   * [`java8`](https://github.com/pterodactyl/yolks/tree/master/java/8)
-    * `ghcr.io/pterodactyl/yolks:java_8`
+    * `ghcr.io/alexan75541/yolks:java_8`
   * [`java8 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/8j9)
-    * `ghcr.io/pterodactyl/yolks:java_8j9`
+    * `ghcr.io/alexan75541/yolks:java_8j9`
   * [`java11`](https://github.com/pterodactyl/yolks/tree/master/java/11)
-    * `ghcr.io/pterodactyl/yolks:java_11`
+    * `ghcr.io/alexan75541/yolks:java_11`
   * [`java11 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/11j9)
-    * `ghcr.io/pterodactyl/yolks:java_11j9`
+    * `ghcr.io/alexan75541/yolks:java_11j9`
   * [`java16`](https://github.com/pterodactyl/yolks/tree/master/java/16)
-    * `ghcr.io/pterodactyl/yolks:java_16`
+    * `ghcr.io/alexan75541/yolks:java_16`
   * [`java16 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/16j9)
-    * `ghcr.io/pterodactyl/yolks:java_16j9`
+    * `ghcr.io/alexan75541/yolks:java_16j9`
   * [`java17`](https://github.com/pterodactyl/yolks/tree/master/java/17)
-    * `ghcr.io/pterodactyl/yolks:java_17`
+    * `ghcr.io/alexan75541/yolks:java_17`
   * [`java17 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/17j9)
-    * `ghcr.io/pterodactyl/yolks:java_17j9`
+    * `ghcr.io/alexan75541/yolks:java_17j9`
   * [`java18`](https://github.com/pterodactyl/yolks/tree/master/java/18)
-    * `ghcr.io/pterodactyl/yolks:java_18`
+    * `ghcr.io/alexan75541/yolks:java_18`
   * [`java18 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/18j9)
-    * `ghcr.io/pterodactyl/yolks:java_18j9`
+    * `ghcr.io/alexan75541/yolks:java_18j9`
   * [`java19`](https://github.com/pterodactyl/yolks/tree/master/java/19)
-    * `ghcr.io/pterodactyl/yolks:java_19`
+    * `ghcr.io/alexan75541/yolks:java_19`
   * [`java19 - OpenJ9`](https://github.com/pterodactyl/yolks/tree/master/java/19j9)
-    * `ghcr.io/pterodactyl/yolks:java_19j9`
+    * `ghcr.io/alexan75541/yolks:java_19j9`
   * [`java21`](https://github.com/pterodactyl/yolks/tree/master/java/21)
     * `ghcr.io/pterodactyl/yolks:java_21`
 * [`nodejs`](https://github.com/pterodactyl/yolks/tree/master/nodejs)
