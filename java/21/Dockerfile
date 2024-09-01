@@ -22,7 +22,7 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH container-registry.oracle.com/graalvm/jdk:21
 
-LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
+LABEL       author="Aretzera" maintainer="agroup168@gmail.com"
 
 LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
